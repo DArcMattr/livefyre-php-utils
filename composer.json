@@ -16,7 +16,7 @@
     "require": {
         "php": ">=5.3",
         "ext-json": "*",
-        "DArcMattr/requests": "dev-namespacify",
+        "rmccue/requests": "dev-namespacify",
         "firebase/php-jwt": "^2.0"
     },
     "require-dev": {
