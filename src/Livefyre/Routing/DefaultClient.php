@@ -4,7 +4,7 @@ namespace Livefyre\Routing;
 
 
 use Livefyre\Exceptions\ApiException;
-use Requests;
+use Rmccue\Requests;
 /**
  * @codeCoverageIgnore
  */
